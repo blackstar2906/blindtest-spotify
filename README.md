@@ -1,3 +1,8 @@
+# Tutorial
+
+This tutorial has been dispensed by *Théodo* following this [trello tutorial](https://trello.com/b/ajhBEUSD/web-dojo) (in my account).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
